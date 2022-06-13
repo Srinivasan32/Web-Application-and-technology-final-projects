@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Homepage</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1><img src="pet.jpg" id="logo">Hello Pets</h1>
+<ul>
+  <li><a class="active" href="homepage.html">Home</a></li>
+  <li><a href="www.news.com">News</a></li>
+  <li><a href="#petFood">petFood</a></li>
+  <li><a href="about.html">About Us</a></li>
+  <li><a href="https://www.google.com">Google</a></li>
+</ul>
+<center><h2>About us</h2></center>
+    <ol id="info">
+        <li>The pet store was started in 2010 to feed the needy animals and to sell the food of animals. The Goal of our shop is to give some best feeding and nutriants food to the animals. ABC is the owner of the pet shop</li>
+        <li>Not only feeding in this pet store we will sell pets like dogs, cats, fishes, parrots, rabbits, etc.,.</li>
+
+    </ol>
+
+<center><img src="se.jpg" id="back"></center>
+
+<center><footer><b>&copy copyright 2020 ABC</b></footer></center>
+
+</body>
+</html>
